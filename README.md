@@ -1,2 +1,5 @@
 # multi-agent-ad-factory
-An autonomous, stateful multi-agent system built with LangGraph and Pydantic that dynamically translates high-level product concepts into fully structured, multi-modal video advertisements through sequenced image and video generation pipelines.
+
+> **Status: Work in Progress ( > This system is currently being built and expanded. Future updates will include automated video variation routing and enhanced error handling nodes.
+
+An autonomous, stateful multi-agent system built with LangGraph and Pydantic...
